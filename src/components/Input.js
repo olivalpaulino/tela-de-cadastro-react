@@ -1,9 +1,9 @@
-import React from 'react'
-
-export const Input = ({props}) => {
+const Input = ({props, onChange, name, valor}) => {
   return (
     <div>
-        <label>{props}<input type="text" /></label>
+        <label>{props}<input type="text" onChange={onChange} name={name} value={valor} /></label>
     </div>
   )
 }
+
+export default Input;

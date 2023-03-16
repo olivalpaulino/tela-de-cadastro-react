@@ -1,7 +1,8 @@
-const Botao = ({props, onClick}) => {
+const Botao = ({props, onClick, name}) => {
+
   return (
     <div>
-        <button onClick={onClick}>{props}</button>
+        <button onClick={onClick} name={name}>{props}</button>
     </div>
   )
 }
