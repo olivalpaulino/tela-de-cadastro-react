@@ -5,9 +5,9 @@ Para este projeto, utilizei o react com visual studio code, hook useState, cria�
 ## Como executar o projeto:
 
 Para baixar o projeto e poder modificá-lo a sua maneira, basta dar um git clone, dentro da pasta local que desejar: <br>
-## git clone https://github.com/olivalpaulino/tela-de-cadastro-react
+** git clone https://github.com/olivalpaulino/tela-de-cadastro-react **
 
 Após isso, utilize seguinte comando para instalar as dependências do projeto: <br>
-## npm install
+** npm install **
 
 
